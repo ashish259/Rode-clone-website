@@ -92,7 +92,7 @@ This project is presently deployed in **Netlify Service**
 ## Learnt
 
  HTML 5 <br>
- CSS 3  <br>
+ Talwind CSS   <br>
  CSS flexbox  <br>
  CSS Selectors  <br>
  CSS Positioning  <br>
